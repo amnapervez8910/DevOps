@@ -1,0 +1,6 @@
+Adding some test notes
+Practicing Git staging and commits on Ubuntu.
+Database connection settings should use environment variables, not hard-coded credentials.
+Code review checklist: verify functionality, run tests, and confirm no secrets are committed before merging.
+Exam practice: verifying a branch merge through commit history.
+Q2 workflow: verify this change in develop and staging before main.
